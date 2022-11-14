@@ -1,0 +1,37 @@
+body {
+    background-color: magenta 
+}
+
+
+li, h1, h2, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.biggest {
+    font-size: 69px;
+    font-weight: 900;
+    background-color:crimson;
+    text-align: center;
+    outline-width: 1px;
+    outline-color:dodgerblue;
+}
+
+div#front {
+    text-align: center;
+    font-size: 50px;
+}
+
+a:link {
+    color:darkturquoise
+}
+
+a:visited {
+    color:darkorange
+}
+
+a:hover {
+    font-size: 69px;
+}
